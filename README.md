@@ -1,5 +1,5 @@
-# Swap the video player on the Learn shell
-Changes the video player on Learn to use the browsers implementation.
+# Swap the video player on brightspace lms
+Changes the video player on D2L Brightspace lms to use the browsers implementation.
 
 # Install
 
