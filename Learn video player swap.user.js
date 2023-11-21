@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Learn video player swap
 // @namespace    https://github.com/tadghh/learn-swap-video-player
-// @version      0.2
+// @version      0.3
 // @description  Changes the default video player on Learn to use the browsers implementation.
 // @author       https://github.com/tadghh
 // @match        https://learn.rrc.ca/d2l/le/content/*
