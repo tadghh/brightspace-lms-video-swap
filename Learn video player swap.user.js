@@ -6,6 +6,7 @@
 // @author       https://github.com/tadghh
 // @match        https://learn.rrc.ca/d2l/le/content/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=d2l.com
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
