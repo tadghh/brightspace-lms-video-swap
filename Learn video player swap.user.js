@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Learn video player swap
-// @namespace    https://github.com/tadghh/learn-swap-video-player
+// @name         D2L Brightspace LMS video player swap
+// @namespace    https://github.com/tadghh/brightspace-lms-video-swap
 // @version      0.4
 // @description  Changes the default video player on Learn to use the browsers implementation.
 // @author       https://github.com/tadghh
@@ -28,7 +28,7 @@
         // Add the class to the video element
         videoElement.classList.add('d2l-labs-media-player-type-is-video');
 
-        // Set styles for the video element
+        // Set styles for the video element, taken from the constructed stylesheet
         videoElement.style.cursor = 'auto';
         videoElement.style.display = 'flex';
         videoElement.style.minHeight = '17rem';
