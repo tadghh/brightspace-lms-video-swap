@@ -3,9 +3,9 @@ Changes the video player on Learn to use the browsers implementation.
 
 # Install
 
-Tampermonkey for chrome - [link](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Install the Tampermonkey extension for chrome - [link](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-Install from greasyfork - [link](https://greasyfork.org/en/scripts/480478-learn-video-player-swap)
+2. Install the script from Greasy Fork - [link](https://greasyfork.org/en/scripts/480478-learn-video-player-swap)
 
 # Example
 
