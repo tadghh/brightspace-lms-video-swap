@@ -5,7 +5,7 @@ Changes the video player on D2L Brightspace lms to use the browsers implementati
 
 1. Install the Tampermonkey extension for chrome - [link](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-2. Install the script from Greasy Fork - [link](https://greasyfork.org/en/scripts/480478-learn-video-player-swap)
+2. Install the script from Greasy Fork - [link](https://greasyfork.org/en/scripts/480478-d2l-brightspace-lms-video-player-swap)
 
 # Example
 
