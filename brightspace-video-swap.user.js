@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         D2L Brightspace LMS video player swap
 // @namespace    https://github.com/tadghh/brightspace-lms-video-swap
-// @version      0.4
-// @description  Changes the default video player on Learn to use the browsers implementation.
+// @version      0.5
+// @description  Changes the default video player on brightspace learning shells to use the browsers implementation.
 // @author       https://github.com/tadghh
 // @match        https://*/d2l/le/content/*/viewContent/*/View
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=d2l.com
